@@ -14,3 +14,14 @@ This Power BI dashboard analyzes pricing elasticity, revenue performance and con
 - Lower price tiers drive high sales volume.
 - Mid-range products generate maximum revenue.
 - Luxury products have high margin but low demand.
+
+## Files Included
+- `pricing_strategy_dashboard.pbix` — Main dashboard file
+- `/screenshots` — Dashboard visuals
+
+## Features
+- Price Elasticity Analysis
+- Revenue Segmentation
+- Demand Behavior
+- Profitability Comparison
+- Industry-ready KPIs
